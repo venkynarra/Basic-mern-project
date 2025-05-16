@@ -6,3 +6,4 @@ const App = () => {
 };
 
 export default App;
+//take input from user and add values.
